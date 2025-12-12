@@ -33,7 +33,7 @@ The python source code is divided in three main folders :
 - `python/practical_reconstruction/` code for the main optimization pipeline.
 - `python/variables/` various optimization variables to simplify the optimization pipeline
 
-We provide some of our scenes in `third_party/`. The `statue` and `wicker_basket` scenes can be downloaded [here](https://oc.cs.uni-saarland.de/index.php/s/8tw83k7QAaXDKcb). Their respective configurations can be found in `scenes/scene_configs` and `scenes/sss_scene_configs` whether they require subsurface scattering or not.
+We provide some of our scenes in `third_party/`. The `statue` and `wicker_basket` scenes can be downloaded [here](https://drive.google.com/drive/folders/18UQ1xtdVOZpzaT2YjNE2HW1nzE3MD8aU?usp=sharing). Their respective configurations can be found in `scenes/scene_configs` and `scenes/sss_scene_configs` whether they require subsurface scattering or not.
 
 Finally `figures/` contains python notebooks to reproduce many figures from our paper. The notebooks are a great starting point for anybody who wants to get more familiar with our codebase.
 
